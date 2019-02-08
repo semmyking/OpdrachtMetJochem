@@ -1,0 +1,6 @@
+2019-02-08 10:15:27.6997 [DEBUG] Validating model...
+2019-02-08 10:15:27.8773 [DEBUG] Model updated
+2019-02-08 10:15:27.8773 [DEBUG] Authenticating with server...
+2019-02-08 10:15:28.0833 [DEBUG] Authentication with the remote host failed. (90395:SceneFusion:SceneFusion)
+2019-02-08 10:15:28.0854 [DEBUG] Failed to authenticate: Connection refused because this user is already connected to the session.
+2019-02-08 10:15:28.1852 [DEBUG] Connection failed. (90395:SceneFusion:SceneFusion)

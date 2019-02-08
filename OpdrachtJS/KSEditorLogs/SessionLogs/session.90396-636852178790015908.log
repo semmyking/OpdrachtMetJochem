@@ -1,0 +1,277 @@
+2019-02-08 10:17:59.1960 [DEBUG] Validating model...
+2019-02-08 10:17:59.3925 [DEBUG] Model updated
+2019-02-08 10:17:59.3925 [DEBUG] Authenticating with server...
+2019-02-08 10:17:59.6330 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:17:59.6380 [INFO] Connected to server.
+2019-02-08 10:17:59.6380 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:17:59.6380 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:17:59.6380 [DEBUG] Pro License : False
+2019-02-08 10:17:59.6390 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:17:59.6390 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:17:59.6390 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:17:59.6390 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:17:59.6390 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:17:59.6390 [DEBUG] Waiting for server response
+2019-02-08 10:17:59.7481 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:17:59.7490 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:17:59.8508 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:17:59.8508 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:18:00.5540 [DEBUG] Loading complete
+2019-02-08 10:18:10.8531 [DEBUG] Disconnecting temporarily to recompile.
+2019-02-08 10:18:10.8541 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:18:10.8601 [INFO] Disconnected from server.
+2019-02-08 10:18:10.8601 [DEBUG] Disconnect. (Duration: 11)
+2019-02-08 10:18:20.7225 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:18:21.0227 [DEBUG] Connecting
+2019-02-08 10:18:21.0526 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:18:21.1445 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:18:21.3450 [DEBUG] Validating model...
+2019-02-08 10:18:21.5205 [DEBUG] Model updated
+2019-02-08 10:18:21.5225 [DEBUG] Authenticating with server...
+2019-02-08 10:18:21.7439 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:18:21.7519 [INFO] Connected to server.
+2019-02-08 10:18:21.7519 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:18:21.7519 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:18:21.7529 [DEBUG] Pro License : False
+2019-02-08 10:18:21.7529 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:18:21.7529 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:18:21.7529 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:18:21.7529 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:18:21.7529 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:18:21.7529 [DEBUG] Waiting for server response
+2019-02-08 10:18:21.8496 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:18:21.8506 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:18:21.9364 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:18:21.9374 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:18:22.1001 [DEBUG] Loading complete
+2019-02-08 10:18:34.0928 [DEBUG] Disconnecting temporarily to recompile.
+2019-02-08 10:18:34.0938 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:18:34.0978 [INFO] Disconnected from server.
+2019-02-08 10:18:34.0978 [DEBUG] Disconnect. (Duration: 34)
+2019-02-08 10:18:38.7007 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:18:39.0966 [DEBUG] Connecting
+2019-02-08 10:18:39.1225 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:18:39.1315 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:18:39.3070 [DEBUG] Validating model...
+2019-02-08 10:18:39.4845 [DEBUG] Model updated
+2019-02-08 10:18:39.4845 [DEBUG] Authenticating with server...
+2019-02-08 10:18:39.7199 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:18:39.7309 [INFO] Connected to server.
+2019-02-08 10:18:39.7309 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:18:39.7309 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:18:39.7309 [DEBUG] Pro License : False
+2019-02-08 10:18:39.7319 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:18:39.7319 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:18:39.7319 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:18:39.7319 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:18:39.7319 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:18:39.7319 [DEBUG] Waiting for server response
+2019-02-08 10:18:39.8515 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:18:39.8515 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:18:39.9164 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:18:39.9164 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:18:40.0560 [DEBUG] Loading complete
+2019-02-08 10:20:21.6357 [DEBUG] Disconnecting temporarily to recompile.
+2019-02-08 10:20:21.6367 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:20:21.6427 [INFO] Disconnected from server.
+2019-02-08 10:20:21.6437 [DEBUG] Disconnect. (Duration: 141)
+2019-02-08 10:20:26.4269 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:20:26.8587 [DEBUG] Connecting
+2019-02-08 10:20:26.9006 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:20:26.9116 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:20:27.1020 [DEBUG] Validating model...
+2019-02-08 10:20:27.2796 [DEBUG] Model updated
+2019-02-08 10:20:27.2806 [DEBUG] Authenticating with server...
+2019-02-08 10:20:27.5290 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:20:27.5390 [INFO] Connected to server.
+2019-02-08 10:20:27.5399 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:20:27.5399 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:20:27.5399 [DEBUG] Pro License : False
+2019-02-08 10:20:27.5399 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:20:27.5399 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:20:27.5399 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:20:27.5399 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:20:27.5399 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:20:27.5399 [DEBUG] Waiting for server response
+2019-02-08 10:20:27.6058 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:20:27.6058 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:20:27.6732 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:20:27.6732 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:20:27.8120 [DEBUG] Loading complete
+2019-02-08 10:23:21.5848 [DEBUG] Disconnecting temporarily to recompile.
+2019-02-08 10:23:21.5858 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:23:21.5888 [INFO] Disconnected from server.
+2019-02-08 10:23:21.5898 [DEBUG] Disconnect. (Duration: 321)
+2019-02-08 10:23:26.3393 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:23:26.7237 [DEBUG] Connecting
+2019-02-08 10:23:26.7546 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:23:26.8294 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:23:27.0348 [DEBUG] Validating model...
+2019-02-08 10:23:27.2243 [DEBUG] Model updated
+2019-02-08 10:23:27.2253 [DEBUG] Authenticating with server...
+2019-02-08 10:23:27.4697 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:23:27.4776 [INFO] Connected to server.
+2019-02-08 10:23:27.4776 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:23:27.4776 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:23:27.4776 [DEBUG] Pro License : False
+2019-02-08 10:23:27.4776 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:23:27.4776 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:23:27.4776 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:23:27.4776 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:23:27.4786 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:23:27.4786 [DEBUG] Waiting for server response
+2019-02-08 10:23:27.6163 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:23:27.6163 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:23:27.6841 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:23:27.6841 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:23:27.8187 [DEBUG] Loading complete
+2019-02-08 10:26:00.2040 [DEBUG] Disconnecting temporarily to recompile.
+2019-02-08 10:26:00.2050 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:26:00.2080 [INFO] Disconnected from server.
+2019-02-08 10:26:00.2080 [DEBUG] Disconnect. (Duration: 480)
+2019-02-08 10:26:04.9832 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:26:05.3769 [DEBUG] Connecting
+2019-02-08 10:26:05.4058 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:26:05.4147 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:26:05.5933 [DEBUG] Validating model...
+2019-02-08 10:26:05.7758 [DEBUG] Model updated
+2019-02-08 10:26:05.7758 [DEBUG] Authenticating with server...
+2019-02-08 10:26:06.0122 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:26:06.0201 [INFO] Connected to server.
+2019-02-08 10:26:06.0201 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:26:06.0201 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:26:06.0211 [DEBUG] Pro License : False
+2019-02-08 10:26:06.0211 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:26:06.0211 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:26:06.0211 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:26:06.0211 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:26:06.0211 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:26:06.0211 [DEBUG] Waiting for server response
+2019-02-08 10:26:06.1089 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:26:06.1089 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:26:06.1747 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:26:06.1747 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:26:06.3105 [DEBUG] Loading complete
+2019-02-08 10:26:07.3483 [DEBUG] Disconnecting temporarily to enter play mode.
+2019-02-08 10:26:07.3493 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:26:07.3523 [INFO] Disconnected from server.
+2019-02-08 10:26:07.3523 [DEBUG] Disconnect. (Duration: 487)
+2019-02-08 10:26:07.3713 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2019-02-08 10:26:10.0519 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:26:10.0908 [DEBUG] Play mode: True, sync in play mode: True
+2019-02-08 10:26:10.1506 [DEBUG] Connecting
+2019-02-08 10:26:10.1786 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:26:10.1876 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:26:10.3621 [DEBUG] Validating model...
+2019-02-08 10:26:10.5406 [DEBUG] Model updated
+2019-02-08 10:26:10.5406 [DEBUG] Authenticating with server...
+2019-02-08 10:26:10.7690 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:26:10.7859 [INFO] Connected to server.
+2019-02-08 10:26:10.7869 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:26:10.7869 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:26:10.7869 [DEBUG] Pro License : False
+2019-02-08 10:26:10.7869 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:26:10.7869 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:26:10.7869 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:26:10.7869 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:26:10.7869 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:26:10.7869 [DEBUG] Waiting for server response
+2019-02-08 10:26:10.8587 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:26:10.8587 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:26:10.8867 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:26:10.8867 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:26:11.0219 [DEBUG] Loading complete
+2019-02-08 10:26:19.0364 [DEBUG] Play mode: False
+2019-02-08 10:26:19.0603 [DEBUG] Loading complete
+2019-02-08 10:26:24.8972 [DEBUG] Disconnecting temporarily to enter play mode.
+2019-02-08 10:26:24.8982 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:26:24.9002 [INFO] Disconnected from server.
+2019-02-08 10:26:24.9002 [DEBUG] Disconnect. (Duration: 6)
+2019-02-08 10:26:24.9172 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2019-02-08 10:26:27.3252 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:26:27.3750 [DEBUG] Play mode: True, sync in play mode: True
+2019-02-08 10:26:27.4289 [DEBUG] Connecting
+2019-02-08 10:26:27.4568 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:26:27.4648 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:26:27.6453 [DEBUG] Validating model...
+2019-02-08 10:26:27.8787 [DEBUG] Model updated
+2019-02-08 10:26:27.8797 [DEBUG] Authenticating with server...
+2019-02-08 10:26:28.2596 [DEBUG] Connected to room. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:26:28.2823 [INFO] Connected to server.
+2019-02-08 10:26:28.2832 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-02-08 10:26:28.2832 [DEBUG] Unity Version : 2018.2.15f1
+2019-02-08 10:26:28.2832 [DEBUG] Pro License : False
+2019-02-08 10:26:28.2843 [DEBUG] Platform : WindowsEditor
+2019-02-08 10:26:28.2843 [DEBUG] Build Target : StandaloneWindows64
+2019-02-08 10:26:28.2843 [DEBUG] Scene Fusion version : 1.8.2
+2019-02-08 10:26:28.2843 [DEBUG] Scene Fusion client build : 0
+2019-02-08 10:26:28.2843 [DEBUG] User : skyherojochempie@gmail.com
+2019-02-08 10:26:28.2843 [DEBUG] Waiting for server response
+2019-02-08 10:26:28.4061 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-02-08 10:26:28.4061 [DEBUG] User Permissions: FFFFFFFF
+2019-02-08 10:26:28.4460 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-02-08 10:26:28.4460 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-02-08 10:26:28.5866 [DEBUG] Loading complete
+2019-02-08 10:26:33.2176 [DEBUG] Play mode: False
+2019-02-08 10:26:33.2416 [DEBUG] Loading complete
+2019-02-08 10:27:00.4681 [DEBUG] Disconnecting temporarily to enter play mode.
+2019-02-08 10:27:00.4681 [DEBUG] Disconnecting from room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:27:00.4750 [INFO] Disconnected from server.
+2019-02-08 10:27:00.4750 [DEBUG] Disconnect. (Duration: 27)
+2019-02-08 10:27:00.4920 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2019-02-08 10:27:03.0666 [DEBUG] Scene Fusion version 1.8.2-0
+2019-02-08 10:27:03.1334 [DEBUG] Play mode: True, sync in play mode: True
+2019-02-08 10:27:03.1893 [DEBUG] Connecting
+2019-02-08 10:27:03.2152 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:21312
+2019-02-08 10:27:03.2272 [ERROR] SocketException: No such host is known.
+
+System.Net.Dns.GetHostByName (System.String hostName)
+System.Net.Dns.GetHostEntry (System.String hostNameOrAddress)
+ .⁞.Connect (System.String , Int32 , KS.Reactor.ConnectionHandler )
+UnityEngine.Debug:LogException(Exception)
+KS.Reactor.ksLog:LogToUnity(Level, String, String, Exception, Object)
+KS.Reactor.ksLog:HandleLog(String, String, String, Exception, Level, Object)
+KS.Reactor.ksLog:Log(⁞, String, Exception, Level, Object)
+KS.Reactor.ksLog:Error(⁞, String, Exception)
+.⁞:Connect(String, Int32, ConnectionHandler)
+KS.Reactor.Client.ksBaseRoom`2:Connect(PlayerControllerFactory, ksInput, ConnectCallback, Protocol, ConnectHandler, ksMultiType[])
+KS.Reactor.Client.ksService:JoinRoom(ksBaseRoom, Protocol, ConnectHandler, ksMultiType[])
+KS.SceneFusion.Client.Editor.CoEditService:JoinRoom(sfSessionInfo, Boolean, Boolean, Boolean)
+KS.SceneFusion.Client.Editor.CoEditService:Update()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions()
+
+2019-02-08 10:27:03.2272 [ERROR] Error connecting to roommanager-ec2-52-12-117-140.kinematicsoup.com: No such host is known.
+
+  at System.Net.Dns.GetHostByName (System.String hostName) [0x00000] in <filename unknown>:0 
+  at System.Net.Dns.GetHostEntry (System.String hostNameOrAddress) [0x00000] in <filename unknown>:0 
+  at  .⁞.Connect (System.String , Int32 , KS.Reactor.ConnectionHandler ) [0x00000] in <filename unknown>:0 
+2019-02-08 10:27:03.2272 [DEBUG] Guest connection. (Session: 90396)
+2019-02-08 10:27:03.2760 [DEBUG] Refresh token (afciIlERehzYtBeOBs0HLtehxd0BEb2FmMFEKuqcjqsIlGwbxjZW9jBXpciLwZoye4A2ip1YrgwD12QoOgq3GHtEjazouobbd5aHd3XoEDdHTmLenzwzQU3A5MN6fU9H1afiSTm6RkW7Xb6QeWFirNtPtkUnGBiXcFmasS39KYk18cMAze6FbrpF3M69fHspYN1isbjN6ItRDru458q7SAXFyoBAhdZD5ALhfNmwTtCrZIqpdDf0Ni5yBFg3l54) error: {"err":"Error: NameResolutionFailure"}
+2019-02-08 10:27:19.2482 [DEBUG] Cancelled connection
+2019-02-08 10:27:19.2492 [DEBUG] Aborting connection attempt for room (90396:SceneFusion:SceneFusion)
+2019-02-08 10:27:19.2502 [DEBUG] Connection attempt aborted. (90396:SceneFusion:SceneFusion)
+2019-02-08 10:27:19.2611 [WARNING] Connection failed: ABORTED, retrying...
+2019-02-08 10:27:21.2505 [DEBUG] Connecting to room (90396:SceneFusion:SceneFusion) via TCP at roommanager-ec2-52-12-117-140.kinematicsoup.com:443
+2019-02-08 10:27:21.2525 [ERROR] SocketException: No such host is known.
+
+System.Net.Dns.GetHostByName (System.String hostName)
+System.Net.Dns.GetHostEntry (System.String hostNameOrAddress)
+ .⁞.Connect (System.String , Int32 , KS.Reactor.ConnectionHandler )
+UnityEngine.Debug:LogException(Exception)
+KS.Reactor.ksLog:LogToUnity(Level, String, String, Exception, Object)
+KS.Reactor.ksLog:HandleLog(String, String, String, Exception, Level, Object)
+KS.Reactor.ksLog:Log(⁞, String, Exception, Level, Object)
+KS.Reactor.ksLog:Error(⁞, String, Exception)
+.⁞:Connect(String, Int32, ConnectionHandler)
+KS.Reactor.Client.ksBaseRoom`2:Connect(PlayerControllerFactory, ksInput, ConnectCallback, Protocol, ConnectHandler, ksMultiType[])
+KS.Reactor.Client.ksService:JoinRoom(ksBaseRoom, Protocol, ConnectHandler, ksMultiType[])
+KS.SceneFusion.Client.Editor.CoEditService:Update()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions()
+
+2019-02-08 10:27:21.2525 [ERROR] Error connecting to roommanager-ec2-52-12-117-140.kinematicsoup.com: No such host is known.
+
+  at System.Net.Dns.GetHostByName (System.String hostName) [0x00000] in <filename unknown>:0 
+  at System.Net.Dns.GetHostEntry (System.String hostNameOrAddress) [0x00000] in <filename unknown>:0 
+  at  .⁞.Connect (System.String , Int32 , KS.Reactor.ConnectionHandler ) [0x00000] in <filename unknown>:0 
+2019-02-08 10:46:56.6329 [DEBUG] Play mode: False
+2019-02-08 10:48:38.7496 [DEBUG] Disconnecting temporarily to recompile.
