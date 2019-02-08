@@ -4,14 +4,21 @@ using UnityEngine;
 
 public class Fire : MonoBehaviour {
 
+    private ControlFire fire;
+    private UserData stats;
+
     private void Awake()
     {
-        ControlFire fire = GetComponent<ControlFire>();
+        stats = GetComponent<UserData>();
+        fire = GetComponent<ControlFire>();
         fire.FireBullet += Shoot;
     }
 
-    private void Shoot(string msg)
+    
+
+    private void Shoot()
     {
-        Debug.Log(msg);
+        stats.hp -= 1;
+        Debug.Log("shots are fired and you have " + stats.hp + " HP.");
     }
 }

@@ -5,12 +5,18 @@ using UnityEngine;
 
 public class ControlFire : MonoBehaviour {
 
-    public Action<string> FireBullet;
+    public Action FireBullet;
 
     private void Awake()
     {
-        FireBullet("Shots have been fired!");
+        //FireBullet();
     }
 
-
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            FireBullet();
+        }
+    }
 }
