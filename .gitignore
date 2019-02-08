@@ -8,6 +8,7 @@ Assets/Test*
 Assets/Test.meta
 Assets/KinematicSoup*
 Assets/KinematicSoup.meta
+KSEditorLogs*
 
 # Visual Studio cache directory
 .vs/
